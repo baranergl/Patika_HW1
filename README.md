@@ -5,7 +5,7 @@ My first Patika Homework
         <title>Done by Baran :)</title>
         <style type="text/css">
             body {
-                background-image: url('C:/Users/mustafa.senyurt/Desktop/test/justpatikajpg.jpg');
+                background-image: url('https://raw.githubusercontent.com/Kofana-Software-Developer-Bootcamp/assignment1-baranergl/main/justpatikajpg.jpg?token=GHSAT0AAAAAABRLIVX45GK2LFMZ5IN3A6MYYQY4VNQ');
             }
             </style>   
     </head>
